@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ehshan55
-- 👀 I’m interested in coading
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on react, nextjs
 - 📫 Reach me ehsan@digirex.io
