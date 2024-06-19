@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ehshan55
+- 👋 Hi, I’m Ehshan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on react, nextjs
