@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full-stack
 - 💞️ I’m looking to collaborate on react, nextjs
-- 📫 Reach me ehsan@scrollengine.com
+- 📫 Reach me ahshan55@gmail.com
 
 <!---
 Ehshan55/Ehshan55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
